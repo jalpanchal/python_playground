@@ -1,0 +1,9 @@
+pandas
+numpy
+jupyter
+scipy
+matplotlib
+html5lib
+ipywidgets
+seaborn
+#jupyter nbextension enable --py widgetsnbextension
